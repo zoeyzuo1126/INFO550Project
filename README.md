@@ -1,3 +1,5 @@
-## My first repository
-## This is just a toy repository for demonstration.
-Some cool new info for the README!
+## This Project will work with RStudio. 
+Please make sure the following packages are installed in your RStudio for future use.
+R Packages:
+car
+dplyr
